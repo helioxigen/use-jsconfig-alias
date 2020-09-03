@@ -1,0 +1,10 @@
+{
+  "name": "use-jsconfig-alias",
+  "version": "1.0.0",
+  "description": "tool that simplifies using absolute paths providing ready configs",
+  "main": "index.js",
+  "repository": "git@github.com:helioxigen/use-jsconfig-alias.git",
+  "author": "helioxigen",
+  "license": "MIT",
+  "private": false
+}
